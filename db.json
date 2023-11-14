@@ -1,0 +1,43 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "Sku": 1,
+      "image": "photo1",
+      "name": "montre",
+      "short description": "abcdef",
+      "long description": "apbd",
+      "price": 100,
+      "promotion": 10,
+      "quantity": 20,
+      "selected":true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "Sku": 2,
+      "image": "photo2",
+      "name": "montre1",
+      "short description": "abcdef",
+      "long description": "apbd",
+      "price": 300,
+      "promotion": 10,
+      "quantity": 10,
+      "selected":true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "Sku": 3,
+      "image": "photo3",
+      "name": "montre3",
+      "short description": "abcdef",
+      "long description": "apbd",
+      "price": 500,
+      "promotion": 10,
+      "quantity": 30,
+      "selected":true,
+      "available": true
+    }
+  ]
+}
